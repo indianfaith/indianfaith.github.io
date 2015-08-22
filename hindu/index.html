@@ -1,0 +1,60 @@
+---
+layout: default
+title: Hindu Temples
+description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+---
+{% include nav.html %}
+    <div id="sep" style="background: url(/assets/img/header32.jpg) no-repeat center top; background-position: center center; background-position: center center;">
+      <div class="container header-info">
+        <div class="row centered">
+          <div class="col-md-8 col-md-offset-2">
+            <h1>{{page.category}}</h1>
+            <h4> {{page.description}}</h4>
+           
+          </div><!--/col-md-8-->
+        </div>
+      </div>
+    </div><!--/sep-->
+
+	<div class="container ptb">
+		<div class="row">
+			<!-- Loop -->{% for post in site.posts %}
+							{% if post.categories contains 'hindu' %}
+			<div class="col-md-3">
+			  <a href="{{post.url}}"><img src="{{post.thumb}}" class="img-responsive">
+				<h4 class="text-center tbi">{{post.title}}</h4></a>
+			</div>
+			{% endif %}
+				{% endfor %}<!--Loop Ends -->
+
+		</div>
+	</div>
+	
+	{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a rel="prev" href="{{ paginator.previous_page_path | replace: 'index.html', '/' | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ '/fresh-arrival' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a rel="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
+
+
+		{% include footer.html %}

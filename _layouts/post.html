@@ -1,0 +1,62 @@
+---
+layout: default
+---
+{% include nav.html %}
+
+
+    <div id="sep" style="background: url( {{page.banner}} ) no-repeat center top; background-position: center center;">
+      <div class="container header-info">
+        <div class="row centered">
+          <div class="col-md-8 col-md-offset-2">
+            <h1>{{page.title}}</h1>
+            <h4>{{page.description}}</h4>
+            <p><button class="btn btn-conf-2 btn-green">Donate</button></p> 
+          </div><!--/col-md-8-->
+        </div>
+      </div>
+    </div><!--/sep-->
+
+    <div class="container ptb">
+      <div class="row centered">
+	  <div class="col-md-8 text-justify">
+        <!--<h2 class="mb t-blue">All the information will be displayed here</h2>-->
+    
+	  <img src="{{page.thumb}}" class="imc"/>
+	  {{content}}
+	  
+	  </div>
+         <div class="col-md-4">
+		  
+		 <div class="jumbotron right-bar">
+		<h3 class="t-blue"><u>INFORMATION</u></h3>
+		<br />
+		<h4>Location</h4>
+		&bull; <a class="t-blue">{{page.location}}</a> &bull; 
+		<hr />
+		
+		
+		
+		 <h4>Category</h4>
+		&bull; <a href="#" class="t-blue">{{page.category}}</a> &bull; 
+		<hr />
+		
+		<!--<h4>Availablity </h4>
+		&bull; <a href="#" class="t-blue"> 05:00 - 22:00 </a> &bull; 
+		<hr />-->
+		
+	  
+		<a href="{{page.website}}" class="t-blue"> <span class="glyphicon glyphicon glyphicon-globe"></span>  Visit Website</a><br />
+		<!--<a href="#" class="t-blue"> <span class="glyphicon glyphicon-envelope"></span>  Send an email </a><br />
+		<a href="#" class="t-blue"> <span class="glyphicon glyphicon glyphicon-play "></span> Listen Live </a><br /> 	-->
+		<a href="/update.html" class="t-blue"> <span class="glyphicon glyphicon glyphicon-pencil"></span>  Suggest an Update </a><br /> 	
+		
+		
+		
+		 </div>
+		 
+		 </div>
+
+         
+      </div><!--/row-->
+    </div><!--/container-->
+	{% include footer.html %}
