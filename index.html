@@ -1,14 +1,13 @@
 ---
-layout: default
-title: Indian Faith
+layout: home
 ---
 
 <div id="h">
     <div class="logo">IndianFaith</div>
     <div class="social hidden-xs">
-        <a href="#"><i class="ion-social-twitter"></i></a>
-        <a href="#"><i class="ion-social-instagram"></i></a>
-        <a href="#"><i class="ion-social-facebook"></i></a>
+        <a target="_blank" href="https://www.facebook.com/indianfaith"><i class="ion-social-facebook"></i></a>
+		 <a target="_blank" href="https://plus.google.com/108023467005369633226/about"><i class="ion-social-googleplus"></i></a>
+		<a target="_blank" href="https://twitter.com/indianfaith1"><i class="ion-social-twitter"></i></a>
     </div>
     <div class="container">
         <div class="row m10">
@@ -22,7 +21,7 @@ title: Indian Faith
 
                     <nav class="navbar ">
                         <!-- Search text box -->
-                        <input id="search_input" data-toggle="dropdown" type="text" class="form-control" placeholder="Search by name.." autofocus="autofocus" autocomplete="off" onkeyup="checkTextField();" />
+                        <input id="search_input" data-toggle="dropdown" type="text" class="form-control" placeholder="Type Name or Zip Code" autocomplete="off" onkeyup="checkTextField();" />
                         <!-- Search results styled as a dropdown menu -->
                         <ul id="search_results" class="dropdown-menu full-width" role="menu">
                         </ul>
@@ -38,19 +37,22 @@ title: Indian Faith
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="dropdown">
-                                    <button class="btn btn-default dropdown-toggle  home-button" type="button" data-toggle="dropdown">Hindu Temple
-                                        <span class="caret"></span></button>
+                                   
+		<a  class="btn btn-default dropdown-toggle home-button" role="button" type="button" data-toggle="dropdown">Select Temples
+                                        <span class="caret"></span></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="#">HTML</a></li>
-                                        <li><a href="#">CSS</a></li>
-                                        <li><a href="#">JavaScript</a></li>
+                                        <li><a href="/hindu/">Hindu Temples</a></li>
+										 <li><a href="/sikh/">Sikh Temples</a></li>
+                                        <li><a href="/jain/">Jain Temples</a></li>
+                                        <li><a href="/buddhist/">Buddhist Temples</a></li>
+										<li><a href="/muslim/">Muslim Mosques</a></li>
                                     </ul>
                                 </div>
 
                             </div>
 
                             <div class="col-sm-6">
-                                <button class="btn btn-default  home-button" type="button">Advanced Search</button>
+                             <a href="/advanced-search/" class="btn btn-default home-button" role="button">Advanced Search</a>
                             </div>
 
 

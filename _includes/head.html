@@ -9,7 +9,18 @@
     <link href="/assets/css/ionicons.min.css" rel="stylesheet">
     <link href="/assets/css/style.css" rel="stylesheet">
 
-    <title>{{page.title}}</title>
+	<title>{% if page.title != null %} {{ page.title }} - {{site.title}} {% else %}{{site.title}}{% endif %}</title>
+{% if page.description %}<meta name="description" content="{{page.description}}">
+{% else %} <meta name="description" content="{{ post.content | strip_html | truncatewords: 50 }}"> {% endif %}
+<meta content="{{ site.title }}" property="og:site_name">
+{% if page.title %}  <meta content="article" property="og:type">{% else %}  <meta content="website" property="og:type">{% endif %}
+{% if page.url %}  <meta content="{{site.url}}{{ page.url | remove: 'index.html'}}" property="og:url"> {% endif %}
+{% if page.image %}<meta property='og:image' content='{{page.thumb}}'/>{% else %}<meta property='og:image' content='{{site.url}}/assets/images/banner1.jpg'/>{% endif %}
+<meta property='og:title' content='{% if page.title != null %} {{ page.title }} | {{site.title}} {% else %}{{site.title}}{% endif %}'/>
+{% if page.description %}<meta name="og:description" content="{{page.description}}">
+{% else %} <meta name="og:description" content="{{ post.content | strip_html | truncatewords: 50 }}"> {% endif %}
+
+
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>

@@ -18,43 +18,24 @@ description: Lorem Ipsum is simply dummy text of the printing and typesetting in
 
 	<div class="container ptb">
 		<div class="row">
-			<!-- Loop -->{% for post in site.posts %}
-							{% if post.categories contains 'hindu' %}
-			<div class="col-md-3">
-			  <a href="{{post.url}}"><img src="{{post.thumb}}" class="img-responsive">
-				<h4 class="text-center tbi">{{post.title}}</h4></a>
-			</div>
-			{% endif %}
-				{% endfor %}<!--Loop Ends -->
+		<div class="col-md-7">
+	{% assign sorted_posts = site.categories.hindu | sort: 'title', 'last' %}
+{% for post in sorted_posts %}
+<div class="alert alert-info" role="alert"> <span class="glyphicon glyphicon-certificate" aria-hidden="true"></span> <a href="{{ post.url }}">{{ post.title }} - {{post.location}}, {{post.tags}}</a> </div>
 
+<!--  <li><h4><a href="{{ post.url }}">{{ post.title }} - {{post.location}}, {{post.tags}}</a></h4></li>-->
+{% endfor %}
+</div>
+
+<div class="col-md-1"></div>
+<div class="col-md-4">
+	
+
+{% include sidebar.html %}
+
+</div>
 		</div>
 	</div>
 	
-	{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a rel="prev" href="{{ paginator.previous_page_path | replace: 'index.html', '/' | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-  {% else %}
-    <span>&laquo; Prev</span>
-  {% endif %}
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <em>{{ page }}</em>
-    {% elsif page == 1 %}
-      <a href="{{ '/fresh-arrival' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
-
-  {% if paginator.next_page %}
-    <a rel="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-  {% else %}
-    <span>Next &raquo;</span>
-  {% endif %}
-</div>
-{% endif %}
-
 
 		{% include footer.html %}

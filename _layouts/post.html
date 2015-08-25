@@ -9,8 +9,8 @@ layout: default
         <div class="row centered">
           <div class="col-md-8 col-md-offset-2">
             <h1>{{page.title}}</h1>
-            <h4>{{page.description}}</h4>
-            <p><button class="btn btn-conf-2 btn-green">Donate</button></p> 
+            <h3>{{page.location}}</h3>
+			<h3>{{page.tags}}</h3><br />
           </div><!--/col-md-8-->
         </div>
       </div>
@@ -31,29 +31,23 @@ layout: default
 		<h3 class="t-blue"><u>INFORMATION</u></h3>
 		<br />
 		<h4>Location</h4>
-		&bull; <a class="t-blue">{{page.location}}</a> &bull; 
+		&bull;  <a class="t-blue" href="{{page.google-map}}" onclick="javascript:void window.open('{{page.google-map}}','1440407193809','width=1100,height=800,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=1,left=0,top=0');return false;">{{page.location}}</a> &bull;
+		
 		<hr />
-		
-		
 		
 		 <h4>Category</h4>
-		&bull; <a href="#" class="t-blue">{{page.category}}</a> &bull; 
+		&bull; <a href="/{{page.category}}/" class="t-blue">{{page.category | upcase}}</a> &bull; 
 		<hr />
-		
-		<!--<h4>Availablity </h4>
-		&bull; <a href="#" class="t-blue"> 05:00 - 22:00 </a> &bull; 
-		<hr />-->
-		
-	  
-		<a href="{{page.website}}" class="t-blue"> <span class="glyphicon glyphicon glyphicon-globe"></span>  Visit Website</a><br />
-		<!--<a href="#" class="t-blue"> <span class="glyphicon glyphicon-envelope"></span>  Send an email </a><br />
-		<a href="#" class="t-blue"> <span class="glyphicon glyphicon glyphicon-play "></span> Listen Live </a><br /> 	-->
-		<a href="/update.html" class="t-blue"> <span class="glyphicon glyphicon glyphicon-pencil"></span>  Suggest an Update </a><br /> 	
-		
-		
-		
+		<a href="{{page.website}}" target="_blank" class="t-blue"> <span class="glyphicon glyphicon glyphicon-globe"></span>  Visit Website</a><br />
+		<a href="/request-update/" class="t-blue"> <span class="glyphicon glyphicon glyphicon-pencil"></span>  Suggest an Update </a><hr /> 	
+		<h4>Share</h4>
+		<a href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}"><img src="/assets/img/fb.png" /></a>
+		<a href="https://twitter.com/share?url={{site.url}}{{page.url}}&text={{page.title}}"><img src="/assets/img/twitter.png" /></a>
+		<a href="https://plus.google.com/share?url={{site.url}}{{page.url}}"><img src="/assets/img/google-plus.png" /></a>
+		{% if page.donation %}<hr />
+	<button class="btn btn-conf-2 btn-green">Donate</button>
+	{% endif %}
 		 </div>
-		 
 		 </div>
 
          

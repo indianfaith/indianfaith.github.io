@@ -1,65 +1,116 @@
 [
   
     {
-      "title"    : "The Hindu Temple of Greater Chicago",
-      "category" : "hindu",
-      "tags"     : "",
-      "url"      : "/hindu-temple/lemont/",
-	  "href"      : "/hindu-temple/lemont/",
+      "title"    : "Sikh Religious Society of Chicago - Palatine, IL 60067",
+	  "href"      : "/sikh/Sikh-Religious-Society-of-Chicago/",
+      "date"     : "2015-08-24 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "The Hindu Temple of Greater Chicago - Lemont, IL 60439",
+	  "href"      : "/hindu/the-hindu-temple-of-greater-chicago/",
       "date"     : "2015-08-22 00:00:00 +0530"
     } ,
   
     {
-      "title"    : "2nd one",
-      "category" : "portfolio",
-      "tags"     : "",
-      "url"      : "/hindu/portfolio-temple/2nd-one/",
-	  "href"      : "/hindu/portfolio-temple/2nd-one/",
+      "title"    : "Cri Sikh Temple - Lemont, IL 60439",
+	  "href"      : "/sikh/sikh-temple-9/",
+      "date"     : "2015-08-22 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "G Sikh Temple - Lemont, IL 60439",
+	  "href"      : "/sikh/sikh-temple-8/",
+      "date"     : "2015-08-22 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "z2 Sikh Temple - Lemont, IL 60439",
+	  "href"      : "/sikh/sikh-temple-7/",
+      "date"     : "2015-08-22 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "z Sikh Temple - Lemont, IL 60439",
+	  "href"      : "/sikh/sikh-temple-6/",
+      "date"     : "2015-08-22 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "A Sikh Temple - Lemont, IL 60439",
+	  "href"      : "/sikh/sikh-temple-5/",
+      "date"     : "2015-08-22 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "C Sikh Temple - Lemont, IL 60439",
+	  "href"      : "/sikh/sikh-temple-4/",
+      "date"     : "2015-08-22 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "B Sikh Temple - Lemont, IL 60439",
+	  "href"      : "/sikh/sikh-temple-3/",
+      "date"     : "2015-08-22 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "D Sikh Temple - Lemont, IL 60439",
+	  "href"      : "/sikh/sikh-temple-2/",
+      "date"     : "2015-08-22 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "The Sikh Temple - Lemont, IL 60439",
+	  "href"      : "/sikh/sikh-temple/",
+      "date"     : "2015-08-22 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "The Muslim Temple - Lemont, IL 60439",
+	  "href"      : "/muslim/lemont/",
+      "date"     : "2015-08-22 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "The jain Temple - Lemont, IL 60439",
+	  "href"      : "/jain/jain-temple/",
+      "date"     : "2015-08-22 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "2nd one -  ",
+	  "href"      : "/hindu/portfolio/2nd-one/",
       "date"     : "2015-03-15 00:00:00 +0530"
     } ,
   
     {
-      "title"    : "One place to store all your website logins",
-      "category" : "",
-      "tags"     : "Login, Management",
-      "url"      : "/-temple/website-dot-me/",
-	  "href"      : "/-temple/website-dot-me/",
-      "date"     : "2014-08-07 00:00:00 +0530"
-    } ,
-  
-    {
-      "title"    : "First one",
-      "category" : "portfolio",
-      "tags"     : "",
-      "url"      : "/hindu/portfolio-temple/first-one/",
-	  "href"      : "/hindu/portfolio-temple/first-one/",
+      "title"    : "The buddhist - New Jersey, United States 144002",
+	  "href"      : "/buddhist/the-budh/",
       "date"     : "2012-03-14 00:00:00 +0530"
     } ,
   
     {
-      "title"    : "First one",
-      "category" : "portfolio",
-      "tags"     : "",
-      "url"      : "/hindu/portfolio-temple/5th/",
-	  "href"      : "/hindu/portfolio-temple/5th/",
+      "title"    : "First one -  ",
+	  "href"      : "/hindu/portfolio/first-one/",
       "date"     : "2012-03-14 00:00:00 +0530"
     } ,
   
     {
-      "title"    : "First one",
-      "category" : "portfolio",
-      "tags"     : "",
-      "url"      : "/hindu/portfolio-temple/4th/",
-	  "href"      : "/hindu/portfolio-temple/4th/",
+      "title"    : "First one -  ",
+	  "href"      : "/hindu/portfolio/5th/",
       "date"     : "2012-03-14 00:00:00 +0530"
     } ,
   
     {
-      "title"    : "First one",
-      "category" : "hindu",
-      "tags"     : "",
-      "url"      : "/hindu-temple/3rd-one/",
-	  "href"      : "/hindu-temple/3rd-one/",
+      "title"    : "First one -  ",
+	  "href"      : "/hindu/portfolio/4th/",
+      "date"     : "2012-03-14 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "First one - New Jersey, United States ",
+	  "href"      : "/hindu/3rd-one/",
       "date"     : "2012-03-14 00:00:00 +0530"
     } 
   
