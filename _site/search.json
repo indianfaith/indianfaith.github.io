@@ -1,117 +1,141 @@
 [
   
     {
+      "title"    : "ISKCON Chicago - Chicago, IL 60626",
+	  "href"      : "/hindu/Sri-Sri-Kishore-Kishori-Temple/",
+      "date"     : "2015-08-27 00:00:00 -0500"
+    } ,
+  
+    {
+      "title"    : "Your Filename -  ",
+	  "href"      : "/buddhist/your-filename/",
+      "date"     : "2015-08-25 00:00:00 -0500"
+    } ,
+  
+    {
+      "title"    : "Test File -  ",
+	  "href"      : "/buddhist/test-file/",
+      "date"     : "2015-08-25 00:00:00 -0500"
+    } ,
+  
+    {
+      "title"    : "Sri Venkateswara Temple - Balaji - Aurora, IL 60506",
+	  "href"      : "/hindu/Balaji-Temple/",
+      "date"     : "2015-08-25 00:00:00 -0500"
+    } ,
+  
+    {
       "title"    : "Sikh Religious Society of Chicago - Palatine, IL 60067",
 	  "href"      : "/sikh/Sikh-Religious-Society-of-Chicago/",
-      "date"     : "2015-08-24 00:00:00 +0530"
+      "date"     : "2015-08-24 00:00:00 -0500"
     } ,
   
     {
       "title"    : "The Hindu Temple of Greater Chicago - Lemont, IL 60439",
 	  "href"      : "/hindu/the-hindu-temple-of-greater-chicago/",
-      "date"     : "2015-08-22 00:00:00 +0530"
+      "date"     : "2015-08-22 00:00:00 -0500"
     } ,
   
     {
       "title"    : "Cri Sikh Temple - Lemont, IL 60439",
 	  "href"      : "/sikh/sikh-temple-9/",
-      "date"     : "2015-08-22 00:00:00 +0530"
+      "date"     : "2015-08-22 00:00:00 -0500"
     } ,
   
     {
       "title"    : "G Sikh Temple - Lemont, IL 60439",
 	  "href"      : "/sikh/sikh-temple-8/",
-      "date"     : "2015-08-22 00:00:00 +0530"
+      "date"     : "2015-08-22 00:00:00 -0500"
     } ,
   
     {
       "title"    : "z2 Sikh Temple - Lemont, IL 60439",
 	  "href"      : "/sikh/sikh-temple-7/",
-      "date"     : "2015-08-22 00:00:00 +0530"
+      "date"     : "2015-08-22 00:00:00 -0500"
     } ,
   
     {
       "title"    : "z Sikh Temple - Lemont, IL 60439",
 	  "href"      : "/sikh/sikh-temple-6/",
-      "date"     : "2015-08-22 00:00:00 +0530"
+      "date"     : "2015-08-22 00:00:00 -0500"
     } ,
   
     {
       "title"    : "A Sikh Temple - Lemont, IL 60439",
 	  "href"      : "/sikh/sikh-temple-5/",
-      "date"     : "2015-08-22 00:00:00 +0530"
+      "date"     : "2015-08-22 00:00:00 -0500"
     } ,
   
     {
       "title"    : "C Sikh Temple - Lemont, IL 60439",
 	  "href"      : "/sikh/sikh-temple-4/",
-      "date"     : "2015-08-22 00:00:00 +0530"
+      "date"     : "2015-08-22 00:00:00 -0500"
     } ,
   
     {
       "title"    : "B Sikh Temple - Lemont, IL 60439",
 	  "href"      : "/sikh/sikh-temple-3/",
-      "date"     : "2015-08-22 00:00:00 +0530"
+      "date"     : "2015-08-22 00:00:00 -0500"
     } ,
   
     {
       "title"    : "D Sikh Temple - Lemont, IL 60439",
 	  "href"      : "/sikh/sikh-temple-2/",
-      "date"     : "2015-08-22 00:00:00 +0530"
+      "date"     : "2015-08-22 00:00:00 -0500"
     } ,
   
     {
       "title"    : "The Sikh Temple - Lemont, IL 60439",
 	  "href"      : "/sikh/sikh-temple/",
-      "date"     : "2015-08-22 00:00:00 +0530"
+      "date"     : "2015-08-22 00:00:00 -0500"
     } ,
   
     {
       "title"    : "The Muslim Temple - Lemont, IL 60439",
 	  "href"      : "/muslim/lemont/",
-      "date"     : "2015-08-22 00:00:00 +0530"
+      "date"     : "2015-08-22 00:00:00 -0500"
     } ,
   
     {
       "title"    : "The jain Temple - Lemont, IL 60439",
 	  "href"      : "/jain/jain-temple/",
-      "date"     : "2015-08-22 00:00:00 +0530"
+      "date"     : "2015-08-22 00:00:00 -0500"
     } ,
   
     {
       "title"    : "2nd one -  ",
 	  "href"      : "/hindu/portfolio/2nd-one/",
-      "date"     : "2015-03-15 00:00:00 +0530"
+      "date"     : "2015-03-15 00:00:00 -0500"
     } ,
   
     {
       "title"    : "The buddhist - New Jersey, United States 144002",
 	  "href"      : "/buddhist/the-budh/",
-      "date"     : "2012-03-14 00:00:00 +0530"
+      "date"     : "2012-03-14 00:00:00 -0500"
     } ,
   
     {
       "title"    : "First one -  ",
 	  "href"      : "/hindu/portfolio/first-one/",
-      "date"     : "2012-03-14 00:00:00 +0530"
+      "date"     : "2012-03-14 00:00:00 -0500"
     } ,
   
     {
       "title"    : "First one -  ",
 	  "href"      : "/hindu/portfolio/5th/",
-      "date"     : "2012-03-14 00:00:00 +0530"
+      "date"     : "2012-03-14 00:00:00 -0500"
     } ,
   
     {
       "title"    : "First one -  ",
 	  "href"      : "/hindu/portfolio/4th/",
-      "date"     : "2012-03-14 00:00:00 +0530"
+      "date"     : "2012-03-14 00:00:00 -0500"
     } ,
   
     {
       "title"    : "First one - New Jersey, United States ",
 	  "href"      : "/hindu/3rd-one/",
-      "date"     : "2012-03-14 00:00:00 +0530"
+      "date"     : "2012-03-14 00:00:00 -0500"
     } 
   
 ]
