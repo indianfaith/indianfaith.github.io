@@ -1,12 +1,6 @@
 [
   
     {
-      "title"    : "The Buddhist Temple Of Chicago -  ",
-	  "href"      : "/buddhist/the-buddhist-temple-of-chicago/",
-      "date"     : "2015-08-31 00:00:00 +0530"
-    } ,
-  
-    {
       "title"    : "Central Illinois Mosque &amp; Islamic Center - Urbana, IL ",
 	  "href"      : "/muslim/central-illinois-mosque-islamic-center/",
       "date"     : "2015-08-31 00:00:00 +0530"
@@ -33,6 +27,12 @@
     {
       "title"    : "The Hindu Temple of Greater Chicago - Lemont, IL ",
 	  "href"      : "/hindu/the-hindu-temple-of-greater-chicago/",
+      "date"     : "2015-08-22 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "The Buddhist Temple of Greater Chicago - Lemont, IL ",
+	  "href"      : "/buddhist/the-buddhist-temple-of-chicago/",
       "date"     : "2015-08-22 00:00:00 +0530"
     } ,
   
