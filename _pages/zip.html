@@ -33,7 +33,7 @@ permalink: zip.html
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 <hr />
-<h4 id="{{ t | downcase }}">{{ t | downcase }}</h4>
+<h4 id="{{ t | upcase }}">{{ t | upcase }}</h4>
 
 
 {% for post in posts %}
