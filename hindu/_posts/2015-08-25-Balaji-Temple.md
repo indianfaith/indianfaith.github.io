@@ -3,7 +3,7 @@ layout: post
 title: 	Sri Venkateswara Temple - Balaji
 category: hindu
 thumb: http://svsbalaji.force.com/resource/1412086840000/svsheader3
-banner: /assets/img/BalajiTempleBanner.png
+banner: 
 website: //www.balaji.org
 location: Aurora, IL
 tags : [ 60506 ]
