@@ -57,10 +57,69 @@ body {
 .full-width{
 width:100%;
 }
+.text-white{
+color:#fff;
+}
+.subsc{
+background-color:#222222;
+padding:20px;
+}
+.fb-foot{
+    background: rgb(60, 90, 154) none repeat scroll 0% 0%;
+    padding: 10px;
+	display: block;
+	margin:10px;
+     font-size: 16px !important;
+    color: #fff !important;
+}
+
+.fb-foot i{
+   padding-right:10px;
+   border-right:1px solid;
+    font-size: 16px !important;
+  
+}
+
+.tw-foot{
+    background: #00ACEE;
+	display: block;
+	margin:10px;
+    padding: 10px;
+     font-size: 16px !important;
+    color: #fff !important;
+}
+
+.tw-foot i{
+   padding-right:10px;
+   border-right:1px solid;
+    font-size: 16px !important;
+  
+}
+
+.gp-foot{
+    background: #BC0001;
+    padding: 10px;
+	display: block;
+	margin:10px;
+     font-size: 16px !important;
+    color: #fff !important;
+}
+
+.gp-foot i{
+   padding-right:10px;
+   border-right:1px solid;
+    font-size: 16px !important;
+  
+}
+
+
 .imc{
 float: left;
 margin: 10px;
 border-radius:5px;
+max-width: 300px;
+border: 1px solid #ccc;
+padding: 5px;
 }
 .alert-info{
 background-color:#fff;
@@ -187,6 +246,14 @@ input {
 }
 .m10{
 margin-top: 7%;
+}
+.error404 h2{
+text-shadow:2px 1px #000;
+}
+
+.error404 h1{
+font-size:1200% !important;
+text-shadow:2px 1px #000;
 }
 .sicon{
 font-size:25px;
@@ -441,7 +508,7 @@ ul {
 #f {
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background: #222;
+	background: #000;
 	color: white;
 }
 

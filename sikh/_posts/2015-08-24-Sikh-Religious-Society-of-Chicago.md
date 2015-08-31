@@ -1,9 +1,9 @@
 ---
 layout : post
-title : 	Sikh Religious Society of Chicago
+title : Sikh Religious Society of Chicago
 category : sikh
 thumb : http://s3-media1.fl.yelpcdn.com/bphoto/SdDDNHGPRY64ZxkqlspL0w/ls.jpg
-banner : /assets/img/header31.jpg
+banner : 
 website : http://www.srsofchicago.com/
 location : Palatine, IL
 tags : [ 60067 ]

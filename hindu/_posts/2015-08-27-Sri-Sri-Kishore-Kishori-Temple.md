@@ -1,11 +1,11 @@
 ---
-layout: post
-title: 	ISKCON Chicago
-category: hindu
-thumb: /assets/img/rsz_iskcon_logo_big_no_background-1.png
-banner: /assets/img/ISKCONChicagoBanner.jpg
-website: http://www.iskconchicago.com/
-location: Chicago, IL
+layout : post
+title : 	ISKCON Chicago
+category : hindu
+thumb: https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/p640x640/10635821_745535012183380_786622175295556855_n.jpg?oh=baccbfc7278cf65db02816af13ecc0b0&oe=5664B22F&__gda__=1450236737_ab18728d69a9d658d6fe4b0805b9af73
+banner : 
+website : http://www.iskconchicago.com/
+location : Chicago, IL
 tags : [ 60626 ]
 donation : 
 google-map : https://www.google.com/maps/place/1716+W+Lunt+Ave,+Chicago,+IL+60626/data=!4m2!3m1!1s0x880fd1b6b36f8009:0x5de3b50a3cc7271a?sa=X&ved=0CB4Q8gEwAGoVChMI6uuviL7JxwIVCVc-Ch1pKQ41

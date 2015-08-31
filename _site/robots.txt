@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /_
+Disallow: /README
+Disallow: /assets
+Disallow: /zip
+Disallow: /advanced
+Disallow: /404
+Disallow: /update
+Disallow: /submit
+
+
+sitemap: http://radiobucket.com/sitemap.txt
