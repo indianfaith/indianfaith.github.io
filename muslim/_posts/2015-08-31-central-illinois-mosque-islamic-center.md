@@ -6,6 +6,7 @@ thumb: http://i0.wp.com/www.cimic.org/wp-content/uploads/2013/06/entrance.jpg
 banner: 
 website: http://www.cimic.org/
 location: Urbana, IL
+tags : [ US-61801 ]
 donation : 
 google-map : https://www.google.com/maps/place/Central+Illinois+Mosque+%26+Islamic+Center/@40.1118635,-88.2185009,15z/data=!4m2!3m1!1s0x0:0x8df3e226e04aeec0
 ---
