@@ -1,6 +1,6 @@
 ---
 layout : post
-title : 	ISKCON Chicago
+title : ISKCON Chicago
 category : hindu
 thumb : https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/p640x640/10635821_745535012183380_786622175295556855_n.jpg?oh=baccbfc7278cf65db02816af13ecc0b0&oe=5664B22F&__gda__=1450236737_ab18728d69a9d658d6fe4b0805b9af73
 banner : 
