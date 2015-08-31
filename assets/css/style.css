@@ -339,8 +339,9 @@ margin-bottom: 0px;
 
 /* HEADER SECTION */
 .hb{
-background: url(../img/header3.jpg) no-repeat center top;
+background: url(http://i1.wp.com/indianfaith.com/assets/img/header3.jpg) no-repeat center top;
 	background-attachment: fixed;
+	background-color:#08c;
 	background-position: center center;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;

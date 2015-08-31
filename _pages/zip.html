@@ -22,7 +22,7 @@ permalink: zip.html
  
 {% assign tags = site.tags | sort %}
 {% for tag in tags %}
-  <option value="#{{ tag | first | slugify }}">{{ tag[0] | replace:'-', ' ' }} </option>
+  <option value="#{{ tag | first | slugify | upcase }}">{{ tag[0] | replace:'-', ' ' }} </option>
 	
    {% endfor %}
  
