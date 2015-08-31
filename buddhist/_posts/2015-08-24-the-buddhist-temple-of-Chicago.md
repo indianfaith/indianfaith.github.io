@@ -1,14 +1,14 @@
 ---
 layout : post
-title : Sikh Religious Society of Chicago
-category : sikh
-thumb : http://s3-media1.fl.yelpcdn.com/bphoto/SdDDNHGPRY64ZxkqlspL0w/ls.jpg
+title : The Buddhist Temple of Chicago
+category : buddhist
+thumb : https://buddhisttemplechicago.files.wordpress.com/2015/05/image_hondowide.jpg?w=300
 banner : 
-website : http://www.srsofchicago.com/
-location : Palatine, IL
+website : http://buddhisttemplechicago.org
+location : Chicago, IL 
 tags:
 - 60067
-donation : 
+donation :  http://buddhisttemplechicago.org/contribute/
 google-map : https://www.google.co.in/maps/place/Sikh+Religious+Society+of+Chicago/@42.1310202,-88.0757618,15z/data=!4m2!3m1!1s0x0:0x7c495fc646a26fdb?sa=X&ved=0CIwBEPwSKAAwDmoVChMI08XVwbjBxwIVVgSOCh2j-AEF
 ---
 

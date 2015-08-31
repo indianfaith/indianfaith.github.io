@@ -6,7 +6,8 @@ thumb : http://svsbalaji.force.com/resource/1412086840000/svsheader3
 banner :  
 website : //www.balaji.org
 location : Aurora, IL
-tags : 60506
+tags : 
+- 60506
 donation : 
 google-map : https://www.google.com/maps/place/Sri+Venkateswara+Swami+Temple/@41.7907537,-88.3460941,15z/data=!4m2!3m1!1s0x0:0x15dde6976f80ea28?sa=X&ved=0CIgBEPwSMA1qFQoTCNT7sdrexMcCFcufgAodz80JqA
 ---

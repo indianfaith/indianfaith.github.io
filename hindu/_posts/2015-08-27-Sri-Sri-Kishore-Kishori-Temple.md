@@ -6,7 +6,8 @@ thumb : https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/p640x640
 banner : 
 website : http://www.iskconchicago.com/
 location : Chicago, IL
-tags : 60626 
+tags : 
+- 60626 
 donation : 
 google-map : https://www.google.com/maps/place/1716+W+Lunt+Ave,+Chicago,+IL+60626/data=!4m2!3m1!1s0x880fd1b6b36f8009:0x5de3b50a3cc7271a?sa=X&ved=0CB4Q8gEwAGoVChMI6uuviL7JxwIVCVc-Ch1pKQ41
 ---
