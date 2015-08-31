@@ -6,7 +6,7 @@ thumb : /assets/img/thumb.jpg
 banner :
 website : http://htgc.org/Home/
 location : Lemont, IL
-tags : 60439
+tag : 60439
 donation : 
 google-map : https://www.google.co.in/maps/place/The+Hindu+Temple+Of+Greater+Chicago/@41.6885315,-88.0044316,17z/data=!3m1!4b1!4m2!3m1!1s0x880e44cf29c05cad:0x7aa44cbe100b7f46?hl=en
 ---

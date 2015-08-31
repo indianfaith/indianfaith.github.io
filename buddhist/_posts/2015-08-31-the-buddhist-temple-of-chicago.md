@@ -1,4 +1,4 @@
----
+﻿---
 layout : post
 title : The Buddhist Temple of Chicago
 category : buddhist
@@ -6,7 +6,7 @@ thumb : https://buddhisttemplechicago.files.wordpress.com/2015/05/image_hondowid
 banner : 
 website : http://buddhisttemplechicago.org
 location : Chicago, IL 
-tags : 60640
+tag : 60640
 donation : http://buddhisttemplechicago.org/contribute/
 google-map : https://www.google.co.in/maps/place/buddhist+temple+of+chicago/@41.9669883,-87.6593578,15z/data=!4m2!3m1!1s0x0:0xad7bdbc79d736ea7?sa=X&ved=0CJ4BEPwSMA9qFQoTCPiUn_2C08cCFU2Ojgod9_cDiQ
 ---

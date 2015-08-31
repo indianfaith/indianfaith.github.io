@@ -6,7 +6,7 @@ thumb: http://i0.wp.com/www.searchindia.net/images/sib/jain-center-of-chicago.jp
 banner: 
 website: http://www.jsmconline.org/
 location: Bartlett, IL
-tags : 60103
+tag : 60103
 donation : http://www.jsmconline.org/about_us.asp
 google-map : https://www.google.co.in/maps/place/Jain+Society+of+Metropolitan+Chicago/@42.0050062,-88.1991971,17z/data=!3m1!4b1!4m2!3m1!1s0x880f071f51d3d4e1:0x8d60a0de2683e9ef?hl=en
 ---
