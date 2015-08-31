@@ -6,7 +6,7 @@ thumb : http://s3-media1.fl.yelpcdn.com/bphoto/SdDDNHGPRY64ZxkqlspL0w/ls.jpg
 banner : 
 website : http://www.srsofchicago.com/
 location : Palatine, IL
-tags : [ 60067 ]
+tags : 60067
 donation : 
 google-map : https://www.google.co.in/maps/place/Sikh+Religious+Society+of+Chicago/@42.1310202,-88.0757618,15z/data=!4m2!3m1!1s0x0:0x7c495fc646a26fdb?sa=X&ved=0CIwBEPwSKAAwDmoVChMI08XVwbjBxwIVVgSOCh2j-AEF
 ---

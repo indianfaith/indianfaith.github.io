@@ -2,7 +2,6 @@
 
 url: "http://indianfaith.com" # the base hostname & protocol for your site
 title: "IndianFaith"
-description: "Notes on Leadership. The management of the past is obsolete."
 permalink: /:categories/:title/
 include: ['_pages']
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]

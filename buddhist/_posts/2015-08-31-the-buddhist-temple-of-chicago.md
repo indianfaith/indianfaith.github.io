@@ -6,9 +6,9 @@ thumb : https://buddhisttemplechicago.files.wordpress.com/2015/05/image_hondowid
 banner : 
 website : http://buddhisttemplechicago.org
 location : Chicago, IL 
-tags : [ 60640 ]
+tags : 60640
 donation : http://buddhisttemplechicago.org/contribute/
-google-map: https://www.google.co.in/maps/place/buddhist+temple+of+chicago/@41.9669883,-87.6593578,15z/data=!4m2!3m1!1s0x0:0xad7bdbc79d736ea7?sa=X&ved=0CJ4BEPwSMA9qFQoTCPiUn_2C08cCFU2Ojgod9_cDiQ
+google-map : https://www.google.co.in/maps/place/buddhist+temple+of+chicago/@41.9669883,-87.6593578,15z/data=!4m2!3m1!1s0x0:0xad7bdbc79d736ea7?sa=X&ved=0CJ4BEPwSMA9qFQoTCPiUn_2C08cCFU2Ojgod9_cDiQ
 ---
 
 The Buddhist Temple of Chicago (BTC), now nearing its 71st anniversary, is one of the oldest Buddhist temples in Chicago. Our membership has historically been Japanese American, but the temple has diversified over the decades to include members of European, African, Asian, Latin, and Native American descent. We welcome those who identify as LGBTQ. We even have devout Christian members who believe that the teachings of the Buddha are compatible with their religion. Anyone wishing to learn about the Dharma is welcome.
