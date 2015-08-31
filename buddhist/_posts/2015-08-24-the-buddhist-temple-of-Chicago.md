@@ -6,8 +6,7 @@ thumb : https://buddhisttemplechicago.files.wordpress.com/2015/05/image_hondowid
 banner : 
 website : http://buddhisttemplechicago.org
 location : Chicago, IL 
-tags:
-- 60067
+
 donation :  http://buddhisttemplechicago.org/contribute/
 google-map : https://www.google.co.in/maps/place/Sikh+Religious+Society+of+Chicago/@42.1310202,-88.0757618,15z/data=!4m2!3m1!1s0x0:0x7c495fc646a26fdb?sa=X&ved=0CIwBEPwSKAAwDmoVChMI08XVwbjBxwIVVgSOCh2j-AEF
 ---
