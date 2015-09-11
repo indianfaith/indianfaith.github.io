@@ -40,7 +40,7 @@
         e.html(function() {
             if (results.length == 0)
             {
-                e.append('<li style="padding-top: 3px; padding-bottom: 3px"><a style="color: #999; word-wrap: break-word; white-space: normal" href="#">No results found</a></li>');
+                e.append('<li style="padding-top: 3px; padding-bottom: 3px"><a style="color: #999; word-wrap: break-word; white-space: normal" href="/advanced-search/">Nothing Found Here! Please Try Advanced Search</a></li>');
             }
             else
             {

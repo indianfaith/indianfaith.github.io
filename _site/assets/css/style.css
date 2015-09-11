@@ -43,7 +43,7 @@ p {
 	color: #666; 
 	margin-top: 10px; 
 }
-
+.location-text{font-size: 16px;background: rgba(0, 0, 0, 0.5);}
 html,
 body {
 	height: 100%;
